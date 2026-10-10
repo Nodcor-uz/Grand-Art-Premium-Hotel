@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Grand Art Premium Hotel",
+      "hasCanvas": false,
+      "bodyTextLen": 4275,
+      "bodyTextHash": "9252a9465aaabe914659005774cc5dc8a46f7e61acc05c46e584c4494f66fa13",
+      "bodyTextPrefix": "Grand Art Rooms Gallery 3D courtyard Location O‘z Рус En Book AR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Grand Art Premium Hotel",
+      "hasCanvas": false,
+      "bodyTextLen": 4251,
+      "bodyTextHash": "bfa5dc2d71105814dd82af33bbbce0a97e4a29ff7f83d4ccb142a8d33c09a62e",
+      "bodyTextPrefix": "Grand Art O‘z Рус En ART HOTELS GROUP · TASHKENT Grand Art Premi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

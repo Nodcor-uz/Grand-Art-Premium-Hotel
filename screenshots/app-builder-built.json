@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Grand Art Premium Hotel",
+      "hasCanvas": false,
+      "bodyTextLen": 4287,
+      "bodyTextHash": "c22bbde269e3f1beaa74264f2956fcdce8d6aac8c3a4357f4727770a71cc3dbf",
+      "bodyTextPrefix": "Grand Art Xonalar Galereya 3D hovli Manzil O‘z Рус En Band qilis",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Grand Art Premium Hotel",
+      "hasCanvas": false,
+      "bodyTextLen": 4266,
+      "bodyTextHash": "78b9a3b8278ea8e9328333f2ee8ecacc0c71c7fb7debfb95fa8b693467f0d9b5",
+      "bodyTextPrefix": "Grand Art O‘z Рус En ART HOTELS GROUP · TOSHKENT Grand Art Premi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
